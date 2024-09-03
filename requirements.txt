@@ -93,7 +93,7 @@ trino~=0.326
 
 # Azure
 azure-eventhub==5.11.2
-azure-identity==1.12.0
+azure-identity==1.16.1
 azure-keyvault-secrets==4.6.0
 azure-keyvault-certificates==4.6.0
 azure-mgmt-containerinstance==10.1.0
