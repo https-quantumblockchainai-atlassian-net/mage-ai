@@ -48,7 +48,7 @@ setuptools.setup(
         ],
         'azure': [
             'azure-eventhub==5.11.2',
-            'azure-identity==1.12.0',
+            'azure-identity==1.16.1',
             'azure-keyvault-secrets==4.6.0',
             'azure-keyvault-certificates==4.6.0',
             'azure-mgmt-containerinstance==10.1.0',
@@ -131,7 +131,7 @@ setuptools.setup(
             'astor>=0.8.1',
             'aws-secretsmanager-caching==1.1.1.5',
             'azure-eventhub==5.11.2',
-            'azure-identity==1.12.0',
+            'azure-identity==1.16.1',
             'azure-keyvault-certificates==4.6.0',
             'azure-keyvault-secrets==4.6.0',
             'azure-mgmt-containerinstance==10.1.0',
