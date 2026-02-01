@@ -86,6 +86,9 @@
 
 <div align="center">
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmage-ai.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmage-ai?ref=badge_large)
+
 ### Give your data team `magical` powers
 
 </div>
@@ -198,6 +201,7 @@ Build and run a data pipeline with our <b>[demo app](https://demo.mage.ai/)</b>.
 ### Demo video (5 min)
 
 [![Mage quick start demo](https://github.com/mage-ai/assets/blob/main/overview/overview-video.png?raw=True)](https://youtu.be/GswOdShLGmg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmage-ai.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmage-ai?ref=badge_shield)
 
 <sub><i>Click the image to play video</i></sub>
 
